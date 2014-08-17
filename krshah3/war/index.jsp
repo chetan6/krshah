@@ -59,11 +59,11 @@ The organization is proud to announce that it is now accepting donation from pub
 </div>
 <div id="rightbar">
 <h2>latest news</h2>
+<p><span class="orangetext">08/06/2014</span><br/>$500 Healthcare Grant given to Nancy Batt from Greenville, SC</p><br>
+<p><span class="orangetext">04/10/2014</span><br/>2013 Tax Return Filed with IRS</p><br>
+<p><span class="orangetext">03/14/2014</span><br/>$500 Education Grant given to Jakiya Akter. Jakiya is a student of a community college in New York City</p><br>
 <p><span class="orangetext">11/27/2013</span><br/>Donation of $500 received from Satish Iyer</p><br>
 <p><span class="orangetext">09/27/2013</span><br/>Donation of $500 received from Chetan Shah</p><br>
-<p><span class="orangetext">08/11/2013</span><br/>$500 Education Grant given to Maegan Halbedl. Maegan is a student of University of North Carolina at Charlotte</p><br>
-<p><span class="orangetext">06/01/2013</span><br/>$500 Education Grant given to Osler Kendall Moore. Osler is a student at University of Southern Mississippi</p><br>
-<p><span class="orangetext">06/01/2013</span><br/>$500 Education Grant given to S. Kyle Moore. Kyle is a student at University of Alabama</p><br>
 </div>
 </div>
 <jsp:include page="include/contact.jsp" />
